@@ -1,4 +1,4 @@
-# Mukhin Alexey  ![my photo](<img src="../img/my_photo_ava.jpg">)
+# Mukhin Alexey  ![my photo](../img/my_photo_ava.jpg)
 
 ====
 
